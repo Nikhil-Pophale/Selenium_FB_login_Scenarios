@@ -1,0 +1,1 @@
+{"uuid":"ecd7c41c-d1d4-4cbb-bbcf-ad514833d2d1","name":"SelenimBasics_Automation_FrameworK","children":["65344cb6-8199-4e51-8d77-2c0eb49b2985"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699779269535,"stop":1699779318006}],"afters":[],"start":1699779269493,"stop":1699779324187}
