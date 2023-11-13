@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK">
+        <classes>
+            <class name="org.Scripts.FaceBookLogin">
+                <methods>
+                    <include name="test_LoginNegative"/>
+                    <include name="test_LoginPositive"/>
+                </methods>
+            </class>
+            <class name="org.Scripts.VwologiN">
+                <methods>
+                    <include name="vwologinNegative"/>
+                    <include name="vwologinPositive"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

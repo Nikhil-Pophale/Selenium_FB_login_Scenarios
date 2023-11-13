@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 12 14:48:55 IST 2023","Sun Nov 12 14:49:02 IST 2023","7267","All Test Suite","C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK","org.Scripts.FaceBookLogin","org.Scripts.FaceBookLogin","test_LoginNegative","test_LoginNegative",""
+"passed","Sun Nov 12 14:49:04 IST 2023","Sun Nov 12 14:49:05 IST 2023","832","All Test Suite","C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK","org.Scripts.FaceBookLogin","org.Scripts.FaceBookLogin","test_LoginPositive","test_LoginPositive",""
+"passed","Sun Nov 12 14:49:12 IST 2023","Sun Nov 12 14:49:15 IST 2023","2800","All Test Suite","C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK","org.Scripts.VwologiN","org.Scripts.VwologiN","vwologinPositive","vwologinPositive",""
+"passed","Sun Nov 12 14:49:06 IST 2023","Sun Nov 12 14:49:12 IST 2023","6060","All Test Suite","C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK","org.Scripts.VwologiN","org.Scripts.VwologiN","vwologinNegative","vwologinNegative",""
+"passed","Sat Nov 11 09:52:09 IST 2023","Sat Nov 11 09:52:18 IST 2023","9087","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","CreateBooking","CreateBooking",""

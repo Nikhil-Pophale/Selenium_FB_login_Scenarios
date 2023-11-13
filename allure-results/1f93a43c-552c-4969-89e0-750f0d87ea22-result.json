@@ -1,0 +1,61 @@
+{
+  "uuid": "1f93a43c-552c-4969-89e0-750f0d87ea22",
+  "historyId": "95c51c7d97118cade0d7faf5d94312be",
+  "fullName": "org.Scripts.VwologiN.vwologinPositive",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.Scripts.VwologiN"
+    },
+    {
+      "name": "testClass",
+      "value": "org.Scripts.VwologiN"
+    },
+    {
+      "name": "testMethod",
+      "value": "vwologinPositive"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.Scripts.VwologiN"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-U2EICEFD"
+    },
+    {
+      "name": "thread",
+      "value": "10940@LAPTOP-U2EICEFD.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "vwologinPositive",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1699780752222,
+  "stop": 1699780755022
+}
