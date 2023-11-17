@@ -6,55 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="05ab381a-bc5e-4584-8abe-2a5eb4f724bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/03fc28ed-5ad6-48ca-ae56-aa8be9b219a6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0b700cf0-ea85-49dc-9cf7-8aa41355bdd7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0db7f449-e193-4d16-8edb-d923add8c3ed-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2470c2aa-a799-47e9-acf3-77a8cc9ec76e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2e2019ff-57c3-489c-aecf-c21f9962419d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2e57c40d-4c59-446e-bc70-5086cc69532a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/365a3aa0-3147-42a5-bc7e-352d3e09f29f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/36d4e7cb-a007-4d95-b8ef-5db0cb69b936-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3753b068-9001-45ef-a31a-1f0f328fbf4a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/38bd6b92-5a3a-48c3-87b1-b8d95fd38d91-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/392c9730-6078-4c2d-b6c3-3bedcb307554-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3de87b27-63e9-486d-a094-790acc953c7d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3f95acc2-3303-4a6c-9111-94f2c871cfba-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/41d73ee5-3806-46e8-b73a-38904112ef74-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/47617886-ffae-44e0-b678-cda3449b4511-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/48f98d74-39af-4ffe-97d0-cd4a5dd19efa-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4e302793-3eff-4105-92ae-b5aed805fd0a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/522d4105-d9be-43a8-9a77-f6918fd86da8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5740a70e-2fe4-4a86-9c4d-92ce78958bc9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/65344cb6-8199-4e51-8d77-2c0eb49b2985-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6558aa46-5971-48b0-8dc9-ed244c308b86-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6682f4f0-c966-41c8-8742-421f5f7a8701-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/70d335e8-96b2-4c48-a477-dd9fd6b48ef2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7196f983-a3ca-4bac-9931-0f3ff22fb7e0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/76754c8f-9512-4aff-8fe1-4ea277a82769-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/77ec4b66-c60c-488a-833e-d0aea9663903-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/79680d76-5d67-4f7d-a68d-f6ba89e9bfdd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7a8a5e8d-0e69-4f61-9e7f-928ab1ed1b92-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7b4c83eb-456d-4b54-ab8e-0d97a5507549-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8618c987-5846-42c8-8e62-b7c097ddc12e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8b30d958-946a-44bd-b6d2-6669411a4b14-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8e9d685c-6b60-497f-a4af-b00bdbd0baed-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a21ebb3b-cdc4-4019-91fb-eb17de7a068c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a3dc59fc-a719-478d-a686-120470b05c14-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a60415ff-75aa-4c5e-a65f-934371da0d9c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b4c86d6f-c982-47af-b9b9-8fdc08a68144-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bcae77ed-e3d6-48ff-a07e-67055bff82e5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/beedd219-e77c-40b0-b3cb-63686a6dd6dd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c2087cbf-b3f6-4d1d-b062-bb883865ea6c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c9d822bb-3edf-462f-9de1-e64dc95b158f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ccf93f38-698d-451e-8aa3-2839011bdd24-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cec32958-09cc-4835-b2b6-ede4a607d7be-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d0b56289-0409-4cff-bb8f-da93aada4ffe-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/deb37b3e-f9a9-4427-9bfc-6a0259dc2374-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e53139c8-a9ee-4d23-b6ae-7af666f917c2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/eca41d9a-b457-41cd-8d77-240b2f99c447-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ecd7c41c-d1d4-4cbb-bbcf-ad514833d2d1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f5f07f0b-9a4e-4301-833f-d01e21fbe114-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ffbb948c-509b-470b-b702-022404160479-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Scripts/FaceBookLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Scripts/FaceBookLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Scripts/V.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Scripts/VwologiN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Scripts/VwologiN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,25 +41,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/allure-results"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/allure-results&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nikpo\IdeaProjects\SelenimBasics_Automation_FrameworK\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/testng.xml">
+  <component name="RunManager" selected="TestNG.FaceBookLogin">
     <configuration name="org.Scripts in SelenimBasics_Automation_FrameworK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SelenimBasics_Automation_FrameworK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Scripts.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,7 +83,7 @@
       <module name="SelenimBasics_Automation_FrameworK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Scripts.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,7 +100,7 @@
       <module name="SelenimBasics_Automation_FrameworK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Scripts.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,7 +117,7 @@
       <module name="SelenimBasics_Automation_FrameworK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Scripts.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FaceBookLogin" />
+        <item itemvalue="TestNG.VwologiN" />
         <item itemvalue="TestNG.C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/testng.xml" />
         <item itemvalue="JUnit.org.Scripts in SelenimBasics_Automation_FrameworK" />
-        <item itemvalue="TestNG.VwologiN" />
         <item itemvalue="TestNG.VwologiN.vwologinPositive" />
-        <item itemvalue="TestNG.FaceBookLogin" />
       </list>
     </recent_temporary>
   </component>

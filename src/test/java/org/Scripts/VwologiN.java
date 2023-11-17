@@ -46,19 +46,26 @@ public class VwologiN {
         WebElement username = driver.findElement(By.id("login-username"));
         username.clear();
         // add valid username or email
-        username.sendKeys("Validemail@gmail.com");
+        username.sendKeys("contact+atb5x@thetestingacademy.com");
 
         // add valid password
         WebElement password = driver.findElement(By.id("login-password"));
         password.clear();
-        password.sendKeys("blah . . blahh");
+        password.sendKeys("ATBx@1234");
 
         WebElement buttom = driver.findElement(By.id("js-login-btn"));
         buttom.click();
+
+        Thread.sleep(9000);
+
+//        WebElement text_toConfirm = driver.findElement(By.className("Fw(semi-bold).ng-binding"));
+//        Assert.assertEquals(text_toConfirm.getText(),"Aman");
+//        System.out.println(text_toConfirm.getText());
+
     }
 
-    @AfterTest
-    public void closeBrowser(){
-        driver.quit();
-    }
+//    @AfterTest
+//    public void closeBrowser(){
+//        driver.quit();
+//    }
 }
