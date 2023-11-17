@@ -60,9 +60,7 @@ public class FaceBookLogin {
         button.click();
 
         System.out.println("Login  is allowed !!");
-        System.out.println("Vijaya likes Nikhill !!");
-        System.out.println("Vijaya likes Nikhill !!");
-        System.out.println("hav some changes !!");
+      
     }
 
     @AfterTest
