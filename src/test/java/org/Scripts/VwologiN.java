@@ -56,7 +56,7 @@ public class VwologiN {
         WebElement buttom = driver.findElement(By.id("js-login-btn"));
         buttom.click();
 
-        Thread.sleep(9000);
+//        Thread.sleep(9000);
 
 //        WebElement text_toConfirm = driver.findElement(By.className("Fw(semi-bold).ng-binding"));
 //        Assert.assertEquals(text_toConfirm.getText(),"Aman");
