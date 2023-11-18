@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/src/test/java/org/Scripts">
         <classes>
             <class name="org.Scripts.FaceBookLogin">
                 <methods>
                     <include name="test_LoginNegative"/>
                     <include name="test_LoginPositive"/>
+                </methods>
+            </class>
+            <class name="org.Scripts.Katloan_Cura_Book_Appointment">
+                <methods>
+                    <include name="test_Book_Appointment"/>
+                </methods>
+            </class>
+            <class name="org.Scripts.ParaBanking.ParaBanking_Reg">
+                <methods>
+                    <include name="test_ParaBanking"/>
                 </methods>
             </class>
             <class name="org.Scripts.VwologiN">

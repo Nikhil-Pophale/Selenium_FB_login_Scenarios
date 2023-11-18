@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05ab381a-bc5e-4584-8abe-2a5eb4f724bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Scripts/FaceBookLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Scripts/FaceBookLogin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,27 +52,16 @@
       <recent name="C:\Users\nikpo\IdeaProjects\SelenimBasics_Automation_FrameworK\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FaceBookLogin">
-    <configuration name="org.Scripts in SelenimBasics_Automation_FrameworK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ParaBanking_Reg.test_ParaBanking">
+    <configuration name="Katloan_Cura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Scripts.Katloan_Cura" />
       <module name="SelenimBasics_Automation_FrameworK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.Scripts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.Scripts" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SelenimBasics_Automation_FrameworK" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +77,41 @@
       <option name="PACKAGE_NAME" value="org.Scripts" />
       <option name="MAIN_CLASS_NAME" value="org.Scripts.FaceBookLogin" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Katloan_Cura_Book_Appointment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenimBasics_Automation_FrameworK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Scripts" />
+      <option name="MAIN_CLASS_NAME" value="org.Scripts.Katloan_Cura_Book_Appointment" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParaBanking_Reg.test_ParaBanking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SelenimBasics_Automation_FrameworK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Scripts.ParaBanking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Scripts.ParaBanking" />
+      <option name="MAIN_CLASS_NAME" value="org.Scripts.ParaBanking.ParaBanking_Reg" />
+      <option name="METHOD_NAME" value="test_ParaBanking" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -110,31 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VwologiN.vwologinPositive" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SelenimBasics_Automation_FrameworK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.Scripts" />
-      <option name="MAIN_CLASS_NAME" value="org.Scripts.VwologiN" />
-      <option name="METHOD_NAME" value="vwologinPositive" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ParaBanking_Reg.test_ParaBanking" />
+        <item itemvalue="TestNG.Katloan_Cura_Book_Appointment" />
+        <item itemvalue="Application.Katloan_Cura" />
         <item itemvalue="TestNG.FaceBookLogin" />
         <item itemvalue="TestNG.VwologiN" />
-        <item itemvalue="TestNG.C:/Users/nikpo/IdeaProjects/SelenimBasics_Automation_FrameworK/testng.xml" />
-        <item itemvalue="JUnit.org.Scripts in SelenimBasics_Automation_FrameworK" />
-        <item itemvalue="TestNG.VwologiN.vwologinPositive" />
       </list>
     </recent_temporary>
   </component>

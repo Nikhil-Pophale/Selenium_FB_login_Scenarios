@@ -60,7 +60,7 @@ public class FaceBookLogin {
         button.click();
 
         System.out.println("Login  is allowed !!");
-      
+
     }
 
     @AfterTest
