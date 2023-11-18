@@ -1,5 +1,3 @@
-package org.Scripts;
-
 import com.github.javafaker.Faker;
 
 public class faker {
