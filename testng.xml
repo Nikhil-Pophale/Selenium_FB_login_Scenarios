@@ -15,7 +15,7 @@
                     <include name="test_Book_Appointment"/>
                 </methods>
             </class>
-            <class name="org.Scripts.ParaBanking.ParaBanking_Reg">
+            <class name="org.Scripts.ParaBanking_Reg">
                 <methods>
                     <include name="test_ParaBanking"/>
                 </methods>

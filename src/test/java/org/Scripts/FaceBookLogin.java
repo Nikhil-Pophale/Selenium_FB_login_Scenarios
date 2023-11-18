@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeTest;
 
 public class FaceBookLogin {
 
-     WebDriver driver;
+    WebDriver driver;
 
 
     @BeforeTest
@@ -24,8 +24,9 @@ public class FaceBookLogin {
         driver = new EdgeDriver();
         driver.get("https://www.facebook.com/");
     }
+
     @Test
-    public  void test_LoginNegative() throws InterruptedException {
+    public void test_LoginNegative() throws InterruptedException {
 
         driver.manage().window().maximize();
 
@@ -38,15 +39,16 @@ public class FaceBookLogin {
 
         Thread.sleep(3000);
 
-        WebElement errormsg = driver.findElement(By.xpath("//*[@id=\"error_box\"]/div[2]"));
+        WebElement errormsg = driver.findElement(By.className("_9ay7"));
 
-        Assert.assertEquals(errormsg.getText(), "Invalid username or password");
+        Assert.assertEquals(errormsg.getText(), "The email address you entered isn't connected to an account. Find your account and log in.");
         System.out.println(errormsg.getText());
 
 
     }
+
     @Test(dependsOnMethods = "test_LoginNegative")
-    public  void test_LoginPositive() throws InterruptedException {
+    public void test_LoginPositive() throws InterruptedException {
 
         WebElement email = driver.findElement(By.name("email"));
         email.clear();
@@ -54,17 +56,15 @@ public class FaceBookLogin {
 
         WebElement password = driver.findElement(By.name("pass"));
         password.clear();
-        password.sendKeys("7878198nik");
+        password.sendKeys("7878198Goldfish");
 
         WebElement button = driver.findElement(By.name("login"));
         button.click();
 
-        System.out.println("Login  is allowed !!");
-
     }
 
-    @AfterTest
-    public void closeBrowser(){
-        driver.quit();
-    }
+//    @AfterTest
+//    public void closeBrowser(){
+//        driver.quit();
+//    }
 }

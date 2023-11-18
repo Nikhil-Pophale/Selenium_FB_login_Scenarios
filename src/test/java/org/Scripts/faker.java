@@ -1,4 +1,4 @@
-package org.Scripts.ParaBanking;
+package org.Scripts;
 
 import com.github.javafaker.Faker;
 
